@@ -1,0 +1,16 @@
+{
+  "name": "api-project-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit to make working with API's easier",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaMillerCode/project_5.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
